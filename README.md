@@ -5,6 +5,7 @@
 - 📫 How to reach me ... email: devrashed01@gmail.com, FB:https://www.facebook.com/eahea.ratan/
 - 👨‍🎓 Studying Bachelor in CSE
 - 🖥️ Profesionaly i am Frontend Engineer 🤕
+- This one is my new github account, here is my previous account: https://github.com/iamrashed01
 
 <!---
 devrashed01/devrashed01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
